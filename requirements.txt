@@ -1,5 +1,5 @@
 google-generativeai
-speech_recognition
+SpeechRecognition
 pyttsx3
 streamlit
 PyAudio
