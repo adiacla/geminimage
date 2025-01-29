@@ -2,4 +2,3 @@ google-generativeai
 SpeechRecognition
 pyttsx3
 streamlit
-PyAudio
